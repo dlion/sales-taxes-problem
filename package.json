@@ -1,0 +1,30 @@
+{
+  "name": "sales-taxes-problem",
+  "version": "1.0.0",
+  "description": "Task for Xpeppers application",
+  "main": "index.js",
+  "dependencies": {
+    "it-each": "^0.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlion/sales-taxes-problem.git"
+  },
+  "keywords": [
+    "taxes",
+    "problem",
+    "sales"
+  ],
+  "author": "Domenico Luciani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlion/sales-taxes-problem/issues"
+  },
+  "homepage": "https://github.com/dlion/sales-taxes-problem#readme"
+}
